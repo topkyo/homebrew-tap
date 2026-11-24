@@ -1,6 +1,6 @@
 cask "agent-fuse" do
-  version "0.6.1"
-  sha256 "6645fe6baa9bdc6d071f0e81412a2f8c6b5d048d6bacabd37468680d06ad570e"
+  version "0.6.2"
+  sha256 "9f8f6e24e007d392f468c5710e9facef14a19607d66727a8d0ae60bee8d35df1"
 
   url "https://github.com/topkyo/agent-fuse/releases/download/v#{version}/AgentFuse-#{version}-macos.dmg"
   name "AgentFuse Pro"
